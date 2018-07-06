@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16473" started-at="2018-07-05T12:24:29Z" finished-at="2018-07-05T12:24:45Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16473" started-at="2018-07-05T12:24:29Z" finished-at="2018-07-05T12:24:45Z">
+      <class name="com.qait.tap.hristest.AutomationQAmaven.BingTest">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.qait.tap.hristest.AutomationQAmaven.BingTest@1e88b3c]" name="beforeClass" is-config="true" duration-ms="5691" started-at="2018-07-05T12:24:29Z" finished-at="2018-07-05T12:24:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="InputDrop()[pri:0, instance:com.qait.tap.hristest.AutomationQAmaven.BingTest@1e88b3c]" name="InputDrop" duration-ms="556" started-at="2018-07-05T12:24:34Z" finished-at="2018-07-05T12:24:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InputDrop -->
+        <test-method status="PASS" signature="OutputDrop()[pri:1, instance:com.qait.tap.hristest.AutomationQAmaven.BingTest@1e88b3c]" name="OutputDrop" duration-ms="65" started-at="2018-07-05T12:24:35Z" finished-at="2018-07-05T12:24:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OutputDrop -->
+        <test-method status="PASS" signature="sendText()[pri:2, instance:com.qait.tap.hristest.AutomationQAmaven.BingTest@1e88b3c]" name="sendText" duration-ms="79" started-at="2018-07-05T12:24:35Z" finished-at="2018-07-05T12:24:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sendText -->
+        <test-method status="PASS" signature="checkTranslation()[pri:3, instance:com.qait.tap.hristest.AutomationQAmaven.BingTest@1e88b3c]" name="checkTranslation" duration-ms="10046" started-at="2018-07-05T12:24:35Z" finished-at="2018-07-05T12:24:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTranslation -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.qait.tap.hristest.AutomationQAmaven.BingTest@1e88b3c]" name="afterClass" is-config="true" duration-ms="1" started-at="2018-07-05T12:24:45Z" finished-at="2018-07-05T12:24:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.qait.tap.hristest.AutomationQAmaven.BingTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
